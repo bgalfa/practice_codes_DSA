@@ -1,3 +1,5 @@
+//some basic operations on Binary Search Tree like deletion of a node(All cases satisfied),
+//finding the height, no of leaf nodes, existence of a node
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct tree{
